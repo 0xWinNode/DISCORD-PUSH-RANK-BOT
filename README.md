@@ -1,4 +1,4 @@
-# Discord push rank bot
+# Discord Push Rank Bot
 
 Simple self-bot for pushing discord rank on any discord server
 
@@ -12,11 +12,11 @@ Simple self-bot for pushing discord rank on any discord server
 
 1. Download project
    ```console
-   git clone https://github.com/bayy420-999/Discord-push-rank-bot.git
+   git clone https://github.com/0xWinNode/DISCORD-PUSH-RANK-BOT.git
    ```
 2. Go to project directory
    ```console
-   cd Discord-push-rank-bot
+   cd DISCORD-PUSH-RANK-BOT
    ```
 3. Install Python dependencies
    ```console
